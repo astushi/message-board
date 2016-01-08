@@ -19,6 +19,12 @@
     </div>
   </div>
   <div class="form-group">
+     <label for="input_age" class="col-sm-1 control-label">年齢:</label>
+     <div class="col-sm-11">
+         <%= f.text_field :age, class:'form-control',id:'input_age', placeholder:'年齢'%>
+     </div>
+  </div>
+  <div class="form-group">
      <label for="input_text" class="col-sm-1 control-label">内容:</label>
      <div class="col-sm-11">
          <%= f.text_area :body, class:'form-control',id:'input_text', size:'50x5', placeholder:'メッセージを記載してください'%>

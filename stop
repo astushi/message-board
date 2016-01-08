@@ -1,0 +1,77 @@
+[33mcommit 1d3fdffab4b69fd01cfd205724dac4fae8a7c362[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Wed Jan 6 05:09:10 2016 +0000
+
+    challeng1 ver2
+
+[33mcommit ebd54c135226f29aaccedf69156b25598a4d4d8f[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Wed Dec 30 13:13:35 2015 +0000
+
+    heroku 3
+
+[33mcommit 8ce0c7171086351e1afaac914b813eb4afbe0d47[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Wed Dec 30 13:07:15 2015 +0000
+
+    heroku 2
+
+[33mcommit 8f4a3acea2720ac9b75e0d2a0349259f3570ff96[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Wed Dec 30 12:52:20 2015 +0000
+
+    Gemfile update for heroku
+
+[33mcommit 4b9ab5abf2e25d19532a79c69aca98bc9b5951b1[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Wed Dec 30 12:44:25 2015 +0000
+
+    edit and destroy
+
+[33mcommit a8b7480c49ac3458bd778577ebd574bc5392f97d[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Wed Dec 30 02:19:51 2015 +0000
+
+    add redner form
+
+[33mcommit 9bdae9d0ce08d973d80143460b4a5c9d9a5e5136[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Wed Dec 30 01:30:33 2015 +0000
+
+    Implementation of the validation
+
+[33mcommit 191e8532e93e192f8dc181152c0e96abb5149658[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Tue Dec 29 08:58:12 2015 +0000
+
+    report part2 in challenge1
+
+[33mcommit 1e18ce21fb3e0c22fd7f61e220dfe814b0bcb308[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Tue Dec 29 07:54:57 2015 +0000
+
+    using Bootstrap
+
+[33mcommit 26af6fcd4b60dcb3505e812556cc65557a3b5078[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Tue Dec 29 07:41:01 2015 +0000
+
+    create message modle
+
+[33mcommit eb6a0335188b0cff0c66797dcc2937936720767b[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Tue Dec 29 06:07:09 2015 +0000
+
+    create message model
+
+[33mcommit 391ebec7ffe3246a078b04e4ca76e496b930f42d[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Tue Dec 29 03:53:43 2015 +0000
+
+    create messages_controller
+
+[33mcommit 0c913862f5376a67def381d2626c9b9e536cb52f[m
+Author: Atsushi KAWAMURA <astushi.k@gmail.com>
+Date:   Tue Dec 29 03:14:57 2015 +0000
+
+    first commit
